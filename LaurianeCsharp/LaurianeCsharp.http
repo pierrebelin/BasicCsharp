@@ -1,0 +1,6 @@
+@LaurianeCsharp_HostAddress = http://localhost:5260
+
+GET {{LaurianeCsharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

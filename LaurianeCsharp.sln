@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaurianeCsharp", "LaurianeCsharp\LaurianeCsharp.csproj", "{8385ED8E-2C54-4386-98DE-42502631E1B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaurianeCsharp.Tests", "LaurianeCsharp.Tests\LaurianeCsharp.Tests.csproj", "{FCAADA6F-698F-40B9-9654-DA6C70EE96E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaurianeCsharp.Lib", "LaurianeCsharp.Lib\LaurianeCsharp.Lib.csproj", "{BB731698-E9A9-44F3-BA64-3332988E8A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8385ED8E-2C54-4386-98DE-42502631E1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8385ED8E-2C54-4386-98DE-42502631E1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8385ED8E-2C54-4386-98DE-42502631E1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8385ED8E-2C54-4386-98DE-42502631E1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAADA6F-698F-40B9-9654-DA6C70EE96E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAADA6F-698F-40B9-9654-DA6C70EE96E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAADA6F-698F-40B9-9654-DA6C70EE96E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAADA6F-698F-40B9-9654-DA6C70EE96E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB731698-E9A9-44F3-BA64-3332988E8A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB731698-E9A9-44F3-BA64-3332988E8A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB731698-E9A9-44F3-BA64-3332988E8A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB731698-E9A9-44F3-BA64-3332988E8A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
